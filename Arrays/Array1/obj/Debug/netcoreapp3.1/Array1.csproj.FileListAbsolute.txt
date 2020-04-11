@@ -1,0 +1,11 @@
+E:\Documents\Dan's Documents\Swinburne\Cert IV Work\Intro Programming\Arrays\Array1\bin\Debug\netcoreapp3.1\Array1.exe
+E:\Documents\Dan's Documents\Swinburne\Cert IV Work\Intro Programming\Arrays\Array1\bin\Debug\netcoreapp3.1\Array1.deps.json
+E:\Documents\Dan's Documents\Swinburne\Cert IV Work\Intro Programming\Arrays\Array1\bin\Debug\netcoreapp3.1\Array1.runtimeconfig.json
+E:\Documents\Dan's Documents\Swinburne\Cert IV Work\Intro Programming\Arrays\Array1\bin\Debug\netcoreapp3.1\Array1.runtimeconfig.dev.json
+E:\Documents\Dan's Documents\Swinburne\Cert IV Work\Intro Programming\Arrays\Array1\bin\Debug\netcoreapp3.1\Array1.dll
+E:\Documents\Dan's Documents\Swinburne\Cert IV Work\Intro Programming\Arrays\Array1\bin\Debug\netcoreapp3.1\Array1.pdb
+E:\Documents\Dan's Documents\Swinburne\Cert IV Work\Intro Programming\Arrays\Array1\obj\Debug\netcoreapp3.1\Array1.csprojAssemblyReference.cache
+E:\Documents\Dan's Documents\Swinburne\Cert IV Work\Intro Programming\Arrays\Array1\obj\Debug\netcoreapp3.1\Array1.AssemblyInfoInputs.cache
+E:\Documents\Dan's Documents\Swinburne\Cert IV Work\Intro Programming\Arrays\Array1\obj\Debug\netcoreapp3.1\Array1.AssemblyInfo.cs
+E:\Documents\Dan's Documents\Swinburne\Cert IV Work\Intro Programming\Arrays\Array1\obj\Debug\netcoreapp3.1\Array1.dll
+E:\Documents\Dan's Documents\Swinburne\Cert IV Work\Intro Programming\Arrays\Array1\obj\Debug\netcoreapp3.1\Array1.pdb

@@ -1,0 +1,11 @@
+E:\Documents\Dan's Documents\Swinburne\Cert IV Work\Intro Programming\Arrays and Lists\Lists\List2\bin\Debug\netcoreapp3.1\List2.exe
+E:\Documents\Dan's Documents\Swinburne\Cert IV Work\Intro Programming\Arrays and Lists\Lists\List2\bin\Debug\netcoreapp3.1\List2.deps.json
+E:\Documents\Dan's Documents\Swinburne\Cert IV Work\Intro Programming\Arrays and Lists\Lists\List2\bin\Debug\netcoreapp3.1\List2.runtimeconfig.json
+E:\Documents\Dan's Documents\Swinburne\Cert IV Work\Intro Programming\Arrays and Lists\Lists\List2\bin\Debug\netcoreapp3.1\List2.runtimeconfig.dev.json
+E:\Documents\Dan's Documents\Swinburne\Cert IV Work\Intro Programming\Arrays and Lists\Lists\List2\bin\Debug\netcoreapp3.1\List2.dll
+E:\Documents\Dan's Documents\Swinburne\Cert IV Work\Intro Programming\Arrays and Lists\Lists\List2\bin\Debug\netcoreapp3.1\List2.pdb
+E:\Documents\Dan's Documents\Swinburne\Cert IV Work\Intro Programming\Arrays and Lists\Lists\List2\obj\Debug\netcoreapp3.1\List2.csprojAssemblyReference.cache
+E:\Documents\Dan's Documents\Swinburne\Cert IV Work\Intro Programming\Arrays and Lists\Lists\List2\obj\Debug\netcoreapp3.1\List2.AssemblyInfoInputs.cache
+E:\Documents\Dan's Documents\Swinburne\Cert IV Work\Intro Programming\Arrays and Lists\Lists\List2\obj\Debug\netcoreapp3.1\List2.AssemblyInfo.cs
+E:\Documents\Dan's Documents\Swinburne\Cert IV Work\Intro Programming\Arrays and Lists\Lists\List2\obj\Debug\netcoreapp3.1\List2.dll
+E:\Documents\Dan's Documents\Swinburne\Cert IV Work\Intro Programming\Arrays and Lists\Lists\List2\obj\Debug\netcoreapp3.1\List2.pdb
